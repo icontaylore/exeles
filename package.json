@@ -1,12 +1,22 @@
 {
-  "name": "untitled14",
+  "name": "exel",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "JavaScript Exel",
+  "main": "webpack.config.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "javascript"
+  ],
+  "author": "icontaylore",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icontaylore/exeles.git"
+  },
+  "bugs": {
+    "url": "https://github.com/icontaylore/exeles/issues"
+  },
+  "homepage": "https://github.com/icontaylore/exeles#readme"
 }
